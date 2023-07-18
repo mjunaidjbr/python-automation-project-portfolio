@@ -9,6 +9,6 @@ pandas, openpyxl, os, subprocess
   - convert this .xlsx file to .csv (this is the output file)
 #### Console:
 <p align="center">
-<img src="https://github.com/mjunaidjbr/python-automation-project-portfolio/assets/63024982/8efe4bbc-0a19-49ee-8dbf-6c97132b4c2b"  width="800" height="600"> 
+<img src="https://github.com/mjunaidjbr/python-automation-project-portfolio/blob/main/1-convert%20xlsx%20to%20csv%20and%20remove%20dublicate%20data%20using%20python%20script/terminal-img.png"  width="800" height="600"> 
 </p>
   <hr/>
