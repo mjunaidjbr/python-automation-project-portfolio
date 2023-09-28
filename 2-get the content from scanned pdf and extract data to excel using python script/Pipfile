@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypdf2 = "*"
+pillow = "*"
+pdf2image = "*"
+pymupdf = "*"
+selenium = "*"
+pyperclip = "*"
+pyautogui = "*"
+bs4 = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
